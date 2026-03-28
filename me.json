@@ -1,0 +1,11 @@
+{
+
+    "name":{
+        "first": "Duwei",
+        "last":"chen"
+    },
+    "fromWisconsin":false,
+    "numCredits":3,
+    "major":"Computer Science",
+    "interests":"coding"
+}
