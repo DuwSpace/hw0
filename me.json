@@ -7,5 +7,9 @@
     "fromWisconsin":false,
     "numCredits":3,
     "major":"Computer Science",
-    "interests":"coding"
+    "interests":{
+
+        "0":"Coding",
+        "1":"Cooking"
+    }
 }
